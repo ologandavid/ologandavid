@@ -3,7 +3,7 @@
 <ul>
   <li> I'm currently working at the Roboemechanics lab under Prof. Aaron Johnson, </li>
   <li> Interests </li>
-  <li> Take a look at my <a href="https://ologandavid.github.io"> <img alt="Portfolio" src=https://img.shields.io/badge/any_text-you_like-blue /> </a></li>
+  <li> Take a look at my <a href="https://ologandavid.github.io"> <img alt="Portfolio" src=https://img.shields.io/badge/Potfolio-blue /> </a></li>
 </ul>
 
 <p> 📫 Reach me at: </p>

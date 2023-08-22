@@ -1,8 +1,15 @@
-### Hi there 👋
+### Welcome 👋
+<p> I'm David Ologan, a master's student at Canregie Mellon Unversity studying Mechanical Engineering with a focus in Robotics and Control Systems.</p>
+<ul>
+  <li> I'm currently working at the Roboemechanics lab under Prof. Aaron Johnson, </li>
+  <li> Interests </li>
+  <li> Take a look at my porftolio <a href=https://ologandavid.github.io target="_blank"> <img alt="Portfolio src=https://img.shields.io/badge/any_text-you_like-blue /> </a></li>
+</ul>
 
+<p> 📫 Reach me at: </p>
+<p><a href="https://github.com/ologandavid" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/dologan/" target="_blank"><img alt="LinkedIn"src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>   <a href="mailto:dologan@andrew.cmu.edu" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
 <!--
 **ologandavid/ologandavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

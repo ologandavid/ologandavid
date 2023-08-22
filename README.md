@@ -3,7 +3,7 @@
 <ul>
   <li> 🔭 I'm currently working at the Robomechanics lab under Prof. Aaron Johnson, with a focus on state estimation and walking through entanglements in outdoor environments.</li>
   <li> 🤔 My research intrests focus on developing strategies for legged robots to navigate unstructured terrain. </li>
-  <li> Take a look at my <a href="https://ologandavid.github.io"> <img alt="Portfolio" src=https://img.shields.io/badge/Portfolio Here-blue /> </a></li>
+  <li> ⚡ Feel Free to Take a look at my <a href="https://ologandavid.github.io"> <img alt="Portfolio" src=https://img.shields.io/badge/Portfolio-blue /> </a></li>
 </ul>
 
 <p> 📫 Reach me at: </p>

@@ -1,5 +1,5 @@
 ### Welcome 👋
-<p> I'm David Ologan, a master's student at Carnegie Mellon University studying Mechanical Engineering with a focus in Robotics and Control Systems.</p>
+<p> I'm David Ologan, a PhD student at Carnegie Mellon University studying Mechanical Engineering with a focus in Robotics and Control Systems.</p>
 <ul>
   <li> 🔭 I'm currently working at the Robomechanics lab under Prof. Aaron Johnson, with a focus on state estimation and walking through entanglements. </li>
   <li> 🤔 My research focuses on developing strategies for legged robots to navigate unstructured terrain. </li>
